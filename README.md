@@ -1,4 +1,4 @@
-# PowerShell Network Connection Tester
+# PowerShell TCP Network Connection Tester
 
 ![PowerShell Logo](https://www.example.com/powershell-logo.png)
 
