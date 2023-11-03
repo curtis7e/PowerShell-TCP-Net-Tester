@@ -1,7 +1,5 @@
 # PowerShell TCP Network Connection Tester
 
-![PowerShell Logo](https://www.example.com/powershell-logo.png)
-
 This PowerShell script is designed to test TCP network connections using the `Test-NetConnection` cmdlet. It provides a user-friendly interface for users to input the destination IP address, port number, and the number of repetitions for testing. The script includes validation checks to ensure that the provided inputs are correct.
 
 ## How it Works
