@@ -32,14 +32,6 @@ This script offers an easy way to test TCP network connections, making it suitab
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-[![GitHub](https://img.shields.io/github/license/your-username/your-repo)](LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo)](https://github.com/your-username/your-repo/stargazers)
-
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo)](https://github.com/your-username/your-repo/network)
+This project is licensed under the [MIT License]
 
 ```markdown
